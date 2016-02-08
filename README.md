@@ -275,6 +275,7 @@ Projects with over 500 stargazers are in bold.
 * **[Shapeless ★ 1283 ⧗ 0](https://github.com/milessabin/shapeless)** - A type class and dependent type based generic programming library for Scala.
 * [Stateless Future ★ 117 ⧗ 0](https://github.com/qifun/stateless-future) - Asynchronous programming in fully featured Scala syntax.
 * **[Twitter Util ★ 1358 ⧗ 0](https://github.com/twitter/util)** - General-purpose Scala libraries, including a future implementation and other concurrency tools.
+* [Tabulate](https://github.com/nrinaudo/tabulate) - CSV handling library for Scala
 * [Quicklens ★ 137 ⧗ 2](https://github.com/adamw/quicklens) - modify deeply nested case class fields with an elegant API
 
 ## Misc
